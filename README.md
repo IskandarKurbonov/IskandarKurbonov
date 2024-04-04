@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Iskandar Kurbonov
-- 👀 I’m a student.🌱💞️📫
+
